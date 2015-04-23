@@ -7,3 +7,8 @@ var uhaulCharges = prompt("We are calculating the uhaul rental flat fee. \nPleas
 var perHour = prompt("Please enter the price per hour."); // this line is prompting for the price per hour
 var pricePaid = prompt("Please enter the amount paid for the entire rental."); //this line is prompting for how much was paid for the total rental fee
 var hours = (pricePaid - uhaulCharges)  / perHour; //this line will subtract the full amount paid with the rental and divide that with the hourly rate
+
+var result = "I have "+ hours + " hours to move my things."; // This line gives the string output
+alert(result); // This line posts the desired result
+
+console.log("We have "+ hours + " hours to move our things."); // This line gives the console output
