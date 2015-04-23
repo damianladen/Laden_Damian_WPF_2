@@ -24,3 +24,13 @@ if(uhaulCharges > pricePaid){ // the shop charges are greater then the price pai
 
 }else if(uhaulCharges < pricePaid ) { // the shop charges are less then the price paid
     console.log("We are getting things moved!"); // this prints if the other option does not work
+
+    toManyHours = (perHour < 24) ? "Done! Thank goodness that is over!" : "Way to much stuff left to move!";
+    console.log(toManyHours)  // This line gives the console output
+    if (toManyHours < perHour || theEnd === true) { // === means strict equality
+        console.log("Going to our new home.")  // This line gives the console output
+    } else {
+        console.log("Locking up and coming back tomorrow.");  // This line gives the console output
+    }
+
+}
