@@ -12,3 +12,9 @@ var result = "I have "+ hours + " hours to move my things."; // This line gives 
 alert(result); // This line posts the desired result
 
 console.log("We have "+ hours + " hours to move our things."); // This line gives the console output
+
+var uhaulCharges = 17; // This line gives the shop charge price
+var perHour = 6; // This line gives the number per hour
+var pricePaid = 65; // This line gives the price paid
+var toManyHours; // This line gives the operator for the ternary
+var theEnd = true; // This line gives the boolean for the logical operator
