@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="faea9dc8-2323-4b3f-b7d0-80435ac7e0b4" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AssociatingJS/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AssociatingJS/.idea/AssociatingJS.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AssociatingJS/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AssociatingJS/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AssociatingJS/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AssociatingJS/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AssociatingJS/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AssociatingJS/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AssociatingJS/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AssociatingJS/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conditionals/Conditional Logic Relational Expressions/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conditionals/Conditional Logic Relational Expressions/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conditionals/Conditional Logic/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conditionals/Conditional Logic/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conditionals/Else If/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conditionals/Else If/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conditionals/If and Else/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conditionals/If and Else/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conditionals/Logical Operators/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conditionals/Logical Operators/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conditionals/Ternaries/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conditionals/Ternaries/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conditionals/With an Expression/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Conditionals/With an Expression/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Expressions/Arithmetic Operators/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Expressions/Arithmetic Operators/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Expressions/Concatenating Strings/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Expressions/Concatenating Strings/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Expressions/Expressions-Example/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Expressions/Expressions-Example/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Expressions/Modulo Operator/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Expressions/Modulo Operator/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Expressions/Order of Operations/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Expressions/Order of Operations/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Expressions/Using Arrays in Expressions/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Expressions/Using Arrays in Expressions/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Expressions/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Expressions/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Functions/Basic Logic/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Functions/Basic Logic/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Functions/Invocation : execution/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Functions/Invocation : execution/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Functions/Parameters and Arguments/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Functions/Parameters and Arguments/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Functions/Variable scope/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Functions/Variable scope/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Laden_Damian_Conditionals_AssignmentWeek3/Laden_Damian_Conditionals_Flowcart.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Laden_Damian_Conditionals_AssignmentWeek3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Laden_Damian_Conditionals_AssignmentWeek3/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Laden_Damian_Expressions_Assignment.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Laden_Damian_Expressions_Flowchart.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Laden_Damian_Expressions_Flowchart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Laden_Damian_Flowchart_Assignment1/Laden_Damian_Flowchart_Assignment1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Setup GitHub/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Setup GitHub/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment [values_variables]/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment [values_variables]/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../variables-defining/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../variables-defining/js/script.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script.js" afterPath="$PROJECT_DIR$/script.js" />
+    </list>
+    <ignored path="js.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="js" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.42628774" vertical-offset="0" max-vertical-offset="563">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/script.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="261" />
+    <option name="y" value="22" />
+    <option name="width" value="1311" />
+    <option name="height" value="660" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faea9dc8-2323-4b3f-b7d0-80435ac7e0b4" name="Default" comment="" />
+      <created>1429167771837</created>
+      <option name="number" value="Default" />
+      <updated>1429167771837</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="261" y="22" width="1311" height="660" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24942791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42628774" vertical-offset="0" max-vertical-offset="563">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
