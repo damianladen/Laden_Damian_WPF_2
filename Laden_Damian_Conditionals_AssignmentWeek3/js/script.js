@@ -18,3 +18,9 @@ var perHour = 6; // This line gives the number per hour
 var pricePaid = 65; // This line gives the price paid
 var toManyHours; // This line gives the operator for the ternary
 var theEnd = true; // This line gives the boolean for the logical operator
+
+if(uhaulCharges > pricePaid){ // the shop charges are greater then the price paid
+    console.log("You cant keep moving!"); // this prints if the shop charge is greater then the price paid
+
+}else if(uhaulCharges < pricePaid ) { // the shop charges are less then the price paid
+    console.log("We are getting things moved!"); // this prints if the other option does not work
